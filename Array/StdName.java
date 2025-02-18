@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-// WAP to store the Student name in an Array 
+// WAP to store the Student name in an Array
 public class StdName {
   public static void main(String[] args) {
     Scanner Scan = new Scanner(System.in);
