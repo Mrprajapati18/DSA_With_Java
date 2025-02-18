@@ -1,2 +1,0 @@
-printArray(array);
-  //  ReverseArray(array);
