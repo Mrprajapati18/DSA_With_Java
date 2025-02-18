@@ -18,7 +18,7 @@ public class MinimumElement {
         int min = array[0];
 
         // Find the minimum value in the array
-        for (int i = 1; i < size; i++) {  // Fix: Start loop from index 1
+        for (int i = 1; i < size; i++) { // Start loop from index 1
             if (array[i] < min) {
                 min = array[i];
             }
@@ -28,7 +28,7 @@ public class MinimumElement {
         System.out.print("Array: [");
         for (int i = 0; i < size; i++) {
             System.out.print(array[i]);
-            if (i < size - 1) {  // Fix: Avoid extra comma at the end
+            if (i < size - 1) {  // Avoid extra comma at the end
                 System.out.print(", ");
             }
         }
