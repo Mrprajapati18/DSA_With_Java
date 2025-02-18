@@ -31,8 +31,8 @@ public class Max_Element {
       }
     }
     System.out.print("]");
-    
-    System.out.println("Maximum values: " + max);
+    System.out.println(" ");
+    System.out.print("Maximum values: " + max);
     Scan.close();
   }
 }

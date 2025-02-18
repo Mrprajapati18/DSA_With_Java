@@ -19,9 +19,9 @@ public class Array_Avg {
 
         // Calculate the sum and average
         double sum = 0;
-        for (int num : array) {
-            sum += num;
-        }
+      for(int i=0; i< size -1; i++) {
+        sum += array[i];
+      }
         double average = sum / size;
 
         // Print the original array
