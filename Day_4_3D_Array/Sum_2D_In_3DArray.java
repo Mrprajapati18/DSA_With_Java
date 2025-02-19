@@ -41,7 +41,7 @@ public class Sum_2D_In_3DArray {
           sum += array[i][j][k];
         }
       }
-      System.out.println("Sum Of the layer " + (i + 1) + ": " + sum);
+      System.out.println("Sum Of the layer " + ": " + sum);
     }
     Scan.close();
   }
