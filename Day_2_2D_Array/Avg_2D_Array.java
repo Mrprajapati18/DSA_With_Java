@@ -30,7 +30,7 @@ public class Avg_2D_Array {
           sum += array[i][j];
       }
        double average = (double) sum / 4;
-       System.out.println("Average of the row : " + average);
+       System.out.println("Average of the row " + (i + 1) + ": " + average);
     }
     Scan.close();
   }
