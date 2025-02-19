@@ -20,7 +20,7 @@ public class JaggedArray {
       }
     }
     System.out.println("Array contents Are....");
-    System.out.println("==================================");
+  
     for(int i = 0; i < Array.length-1; i++) {
       for(int j = 0; j < Array[i].length; j++) {
         System.out.print(Array[i][j] + " ");
