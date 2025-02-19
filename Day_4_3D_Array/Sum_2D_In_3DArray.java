@@ -10,5 +10,6 @@ public class Sum_2D_In_3DArray {
     int cols = Scan.nextInt();
     // Create 3D array
     int array[][][] = new int[depth][rows][cols];
+    
   }
 }
