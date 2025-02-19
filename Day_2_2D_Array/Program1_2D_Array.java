@@ -13,7 +13,6 @@ public class Program1_2D_Array {
       array[i][j] = Scan.nextInt();
     }
   }
-  Scan.close();
   // Display the Array
   System.out.println("Array:");
   for(int i = 0; i < 3; i++){
@@ -24,5 +23,6 @@ public class Program1_2D_Array {
     // Move to the nex rows
     System.out.println(); 
   }
+  Scan.close();
   }
 } 
