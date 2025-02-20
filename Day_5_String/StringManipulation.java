@@ -22,5 +22,6 @@ public class StringManipulation {
     System.out.println(S2.isEmpty());
     System.out.println(S.lastIndexOf('T'));
     System.out.println(S.charAt(21));
+    System.out.println(S.replace('P', 'p'));
   } 
 }
