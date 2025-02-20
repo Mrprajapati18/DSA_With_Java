@@ -6,11 +6,11 @@ public class Avg_3D_Array {
   public static void main(String[] args) {
    Scanner Scan = new Scanner(System.in);
 
-   //System.out.println("Enetr the number of depth");
+   System.out.println("Enetr the number of depth");
    int depth = Scan.nextInt();
-   //System.out.println("Enter the number of rows");
+   System.out.println("Enter the number of rows");
    int rows = Scan.nextInt();
-   //System.out.println("Enter the Number of columns");
+   System.out.println("Enter the Number of columns");
    int cols = Scan.nextInt();
 
    // Create the 3D Array
