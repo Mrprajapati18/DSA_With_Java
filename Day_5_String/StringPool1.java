@@ -7,7 +7,7 @@ public class StringPool1 {
     String s2 = new String("Omkar");
     String s3 = new String("omakar");
   
-  if( s1 == s2) {
+  if(s1 == s2){
     System.out.println("Referenced are eqaul");
   } else {
     System.out.println("Reference are uneqaul");
@@ -18,7 +18,7 @@ public class StringPool1 {
   else{
     System.out.println("String are unequal");
   }
-  if(s2 == s3) {
+  if(s2==s3){
     System.out.println("Reference s2 is equal to s3");
   }
   else {
