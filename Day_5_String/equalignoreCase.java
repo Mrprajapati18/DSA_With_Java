@@ -3,7 +3,7 @@ public class equalignoreCase {
     String S1 = "KODNEST";
     String S2 = "kodnest";
 
-    if(S1 == S2) {
+    if(S1==S2) {
       System.out.println("Reference are equal");
     }
     else{
