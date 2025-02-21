@@ -1,4 +1,4 @@
-public class StringManipulation {
+public class StringManipulationMethod {
   public static void main(String[] args) {
     String S = "KodNest Technologies Pvt Ltd";
     String S1 = ""; // It is Empty String
