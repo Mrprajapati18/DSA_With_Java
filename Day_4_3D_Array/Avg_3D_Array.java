@@ -14,6 +14,7 @@ public class Avg_3D_Array {
    int cols = Scan.nextInt();
 
    // Create the 3D Array
+   //=======================================
    int array[][][] = new int[depth][rows][cols];
 
    // populate the Array with user input using loop
